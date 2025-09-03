@@ -345,7 +345,7 @@ The frontend provides a comprehensive hotel dashboard with:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/zohaibzebi66-dot/Event-Demo.git
 cd event-info-demo
 ```
 
