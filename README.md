@@ -526,21 +526,6 @@ npm test
 
 **Current**: Events are stored in memory and reset on server restart.
 
-**For Production**:
-
-- Integrate with databases like MongoDB, PostgreSQL, or MySQL
-- Add data validation and sanitization
-- Implement user authentication and authorization
-
-## 📱 Responsive Design
-
-The application is fully responsive and works on:
-
-- Desktop computers
-- Tablets
-- Mobile phones
-- All modern web browsers
-
 ## ❗ Known Limitations
 
 1. **Data Persistence**: Data resets on server restart
@@ -549,24 +534,6 @@ The application is fully responsive and works on:
 4. **Real Maps**: Placeholder maps (requires API keys)
 5. **Error Boundaries**: Limited error handling in React components
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes and commit: `git commit -m 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Support
-
-For questions or support, please open an issue in the repository or contact the development team.
-
----
-
 **Happy Coding! 🎉**
 
-This is a demo project showcasing modern web development practices with React.js and Node.js. Feel free to extend and customize it according to your needs!
+This is a demo project showcasing modern web development practices with React.js and Node.js.
